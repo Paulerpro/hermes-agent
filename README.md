@@ -1,4 +1,4 @@
-# Hermes Agent
+# Financial Research Agent
 
 A financial research agent built on [Nous Research's Hermes Agent](https://hermes-agent.nousresearch.com/docs/guides/python-library)
 framework, routed through [OpenRouter](https://openrouter.ai/) to a free
