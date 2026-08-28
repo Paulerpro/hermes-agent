@@ -1,13 +1,11 @@
 [project]
 name = "hermes-agent"
-version = "0.1.0"
-description = "A small financial research agent (Plan -> Act -> Synthesize) built on Mistral tool use."
+version = "0.2.0"
+description = "A financial research agent built on the Nous Research Hermes Agent framework, routed through OpenRouter."
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
-    "mistralai>=1.5.0",
     "yfinance>=0.2.40",
-    "python-dotenv>=1.0.1",
 ]
 
 [tool.uv]

@@ -3,6 +3,10 @@ __pycache__/
 .venv/
 venv/
 .env
+
+# Vendored NousResearch/hermes-agent clone — fetched via README setup steps,
+# not committed (large third-party monorepo with its own git history).
+vendor/
 .python-version
 *.egg-info/
 .pytest_cache/
