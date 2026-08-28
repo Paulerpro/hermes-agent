@@ -6,6 +6,7 @@ readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
     "yfinance>=0.2.40",
+    "fastmcp>=2.0.0",
 ]
 
 [tool.uv]
